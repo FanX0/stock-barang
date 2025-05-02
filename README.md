@@ -82,7 +82,8 @@ On the main page, display the Stock Module recording the name of the item, quant
    ```sh
    git clone https://github.com/FanX0/stock-barang
    ```
-3. Acces the project
+3. Take the db from the db_stockbarang file at the root of the project and import it into the database.
+4. Acces the project
 
    ```sh
    http://localhost/dashboard-stock-barang/masuk.php
