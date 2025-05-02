@@ -53,7 +53,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Stock Barang][stock-barang]](https://github.com/FanX0/stock-barang)
 
 Stock management dashboard
 
@@ -77,9 +77,15 @@ On the main page, display the Stock Module recording the name of the item, quant
 
 ### Installation
 
-1. Clone the repo
+1. If using xampp place project to htdocs or If using laragon place project to www
+2. Clone the repo
    ```sh
    git clone https://github.com/FanX0/stock-barang
+   ```
+3. Acces the project
+
+   ```sh
+   http://localhost/dashboard-stock-barang/masuk.php
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -88,9 +94,12 @@ On the main page, display the Stock Module recording the name of the item, quant
 
 ## Usage
 
-[![Stock Barang][stock-barang]](https://github.com/FanX0/stock-barang)
-[![Barang Keluar][barang-keluar]](https://github.com/FanX0/stock-barang)
-[![Barang Masuk][barang-masuk]](https://github.com/FanX0/stock-barang)
+- login
+  [![Stock Barang][login]](https://github.com/FanX0/stock-barang)
+- barang masuk
+  [![Barang Keluar][barang-keluar]](https://github.com/FanX0/stock-barang)
+  -barang keluar
+  [![Barang Masuk][barang-masuk]](https://github.com/FanX0/stock-barang)
 
 <!-- ROADMAP -->
 
@@ -164,6 +173,7 @@ Project Link: [https://github.com/FanX0/stock-barang](https://github.com/FanX0/s
 [stock-barang]: images/stock-barang.png
 [barang-masuk]: images/barang-masuk.png
 [barang-keluar]: images/barang-keluar.png
+[login]: images/login.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -181,5 +191,4 @@ Project Link: [https://github.com/FanX0/stock-barang](https://github.com/FanX0/s
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
 [GitHub]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-[PHP]: https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white
-[Php-url]: Php-url
+[PHP]: https://img.shields.io/badge/PHP-4F5B
