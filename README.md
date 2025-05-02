@@ -191,4 +191,5 @@ Project Link: [https://github.com/FanX0/stock-barang](https://github.com/FanX0/s
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
 [GitHub]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-[PHP]: https://img.shields.io/badge/PHP-4F5B
+[PHP]: https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white
+[Php-url]: Php-url
